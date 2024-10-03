@@ -1,4 +1,5 @@
-## Hi there, I'm Zero 👋
+## Hi there, I'm Zero #[wave](https://github.com/user-attachments/assets/578f07fa-14a0-4770-97b9-912f799b1fdb)
+![dragon_4055480](https://github.com/user-attachments/assets/701bcf33-07ca-440d-b8e2-4ec31cf0ebec)
 
 <!--
 **ZerOne-2077/ZerOne-2077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
